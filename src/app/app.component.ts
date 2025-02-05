@@ -1,3 +1,6 @@
+// Continue from this: https://angular.dev/tutorials/first-app/02-HomeComponent
+
+
 import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
